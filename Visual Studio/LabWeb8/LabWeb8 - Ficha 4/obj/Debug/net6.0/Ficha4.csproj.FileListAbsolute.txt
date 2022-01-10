@@ -1,0 +1,30 @@
+C:\Users\Net13\source\repos\LabWeb8\LabWeb8\bin\Debug\net6.0\Ficha4.exe
+C:\Users\Net13\source\repos\LabWeb8\LabWeb8\bin\Debug\net6.0\Ficha4.deps.json
+C:\Users\Net13\source\repos\LabWeb8\LabWeb8\bin\Debug\net6.0\Ficha4.runtimeconfig.json
+C:\Users\Net13\source\repos\LabWeb8\LabWeb8\bin\Debug\net6.0\Ficha4.dll
+C:\Users\Net13\source\repos\LabWeb8\LabWeb8\bin\Debug\net6.0\ref\Ficha4.dll
+C:\Users\Net13\source\repos\LabWeb8\LabWeb8\bin\Debug\net6.0\Ficha4.pdb
+C:\Users\Net13\source\repos\LabWeb8\LabWeb8\obj\Debug\net6.0\Ficha4.csproj.AssemblyReference.cache
+C:\Users\Net13\source\repos\LabWeb8\LabWeb8\obj\Debug\net6.0\Ficha4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Net13\source\repos\LabWeb8\LabWeb8\obj\Debug\net6.0\Ficha4.AssemblyInfoInputs.cache
+C:\Users\Net13\source\repos\LabWeb8\LabWeb8\obj\Debug\net6.0\Ficha4.AssemblyInfo.cs
+C:\Users\Net13\source\repos\LabWeb8\LabWeb8\obj\Debug\net6.0\Ficha4.csproj.CoreCompileInputs.cache
+C:\Users\Net13\source\repos\LabWeb8\LabWeb8\obj\Debug\net6.0\Ficha4.dll
+C:\Users\Net13\source\repos\LabWeb8\LabWeb8\obj\Debug\net6.0\ref\Ficha4.dll
+C:\Users\Net13\source\repos\LabWeb8\LabWeb8\obj\Debug\net6.0\Ficha4.pdb
+C:\Users\Net13\source\repos\LabWeb8\LabWeb8\obj\Debug\net6.0\Ficha4.genruntimeconfig.cache
+C:\Users\Utilizador\OneDrive\Mestrado\Requalificar +Digital\Visual Studio\LabWeb8\LabWeb8\bin\Debug\net6.0\Ficha4.exe
+C:\Users\Utilizador\OneDrive\Mestrado\Requalificar +Digital\Visual Studio\LabWeb8\LabWeb8\bin\Debug\net6.0\Ficha4.deps.json
+C:\Users\Utilizador\OneDrive\Mestrado\Requalificar +Digital\Visual Studio\LabWeb8\LabWeb8\bin\Debug\net6.0\Ficha4.runtimeconfig.json
+C:\Users\Utilizador\OneDrive\Mestrado\Requalificar +Digital\Visual Studio\LabWeb8\LabWeb8\bin\Debug\net6.0\Ficha4.dll
+C:\Users\Utilizador\OneDrive\Mestrado\Requalificar +Digital\Visual Studio\LabWeb8\LabWeb8\bin\Debug\net6.0\ref\Ficha4.dll
+C:\Users\Utilizador\OneDrive\Mestrado\Requalificar +Digital\Visual Studio\LabWeb8\LabWeb8\bin\Debug\net6.0\Ficha4.pdb
+C:\Users\Utilizador\OneDrive\Mestrado\Requalificar +Digital\Visual Studio\LabWeb8\LabWeb8\obj\Debug\net6.0\Ficha4.csproj.AssemblyReference.cache
+C:\Users\Utilizador\OneDrive\Mestrado\Requalificar +Digital\Visual Studio\LabWeb8\LabWeb8\obj\Debug\net6.0\Ficha4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\OneDrive\Mestrado\Requalificar +Digital\Visual Studio\LabWeb8\LabWeb8\obj\Debug\net6.0\Ficha4.AssemblyInfoInputs.cache
+C:\Users\Utilizador\OneDrive\Mestrado\Requalificar +Digital\Visual Studio\LabWeb8\LabWeb8\obj\Debug\net6.0\Ficha4.AssemblyInfo.cs
+C:\Users\Utilizador\OneDrive\Mestrado\Requalificar +Digital\Visual Studio\LabWeb8\LabWeb8\obj\Debug\net6.0\Ficha4.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\OneDrive\Mestrado\Requalificar +Digital\Visual Studio\LabWeb8\LabWeb8\obj\Debug\net6.0\Ficha4.dll
+C:\Users\Utilizador\OneDrive\Mestrado\Requalificar +Digital\Visual Studio\LabWeb8\LabWeb8\obj\Debug\net6.0\ref\Ficha4.dll
+C:\Users\Utilizador\OneDrive\Mestrado\Requalificar +Digital\Visual Studio\LabWeb8\LabWeb8\obj\Debug\net6.0\Ficha4.pdb
+C:\Users\Utilizador\OneDrive\Mestrado\Requalificar +Digital\Visual Studio\LabWeb8\LabWeb8\obj\Debug\net6.0\Ficha4.genruntimeconfig.cache

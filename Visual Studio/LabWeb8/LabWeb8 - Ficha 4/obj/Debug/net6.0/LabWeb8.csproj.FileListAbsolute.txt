@@ -1,0 +1,5 @@
+C:\Users\Net13\source\repos\LabWeb8\LabWeb8\obj\Debug\net6.0\LabWeb8.csproj.AssemblyReference.cache
+C:\Users\Net13\source\repos\LabWeb8\LabWeb8\obj\Debug\net6.0\LabWeb8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Net13\source\repos\LabWeb8\LabWeb8\obj\Debug\net6.0\LabWeb8.AssemblyInfoInputs.cache
+C:\Users\Net13\source\repos\LabWeb8\LabWeb8\obj\Debug\net6.0\LabWeb8.AssemblyInfo.cs
+C:\Users\Net13\source\repos\LabWeb8\LabWeb8\obj\Debug\net6.0\LabWeb8.csproj.CoreCompileInputs.cache
